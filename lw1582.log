@@ -1,0 +1,20 @@
+*   789cdf4 Merge branch 'bottom_3' into top_2
+|\  
+| *   2e652d1 Merge branch 'master' into bottom_3
+| |\  
+| * | f16f9a1 bottom_3 commit
+* | |   e591c68 Merge branch 'master' into top_2
+|\ \ \  
+| | |/  
+| |/|   
+| * |   48d74c8 Merge branch 'top_2' mege to center
+| |\ \  
+| | |/  
+| |/|   
+| * | 850b4ca top_2 commit 1
+* | | 195f199 top_3 commit
+| |/  
+|/|   
+* | 5333aed top_2 commit
+|/  
+* b1e0132 master commit 1
