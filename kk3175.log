@@ -1,0 +1,20 @@
+*   98e1092 (9) Ninth commit (4th on branch1).
+|\  
+| *   9ff37ea (7) Seventh commit (2nd on branch2).
+| |\  
+| * | 40ed2af (4) Fourth commit (1st on branch2).
+* | |   4f29c5b (8) Eighth commit (3rd on branch1).
+|\ \ \  
+| | |/  
+| |/|   
+| * |   28fa9ee (5) Fifth commit (merge branch1 to master).
+| |\ \  
+| | |/  
+| |/|   
+| * | ce40c90 (3) Third commit (2nd on master).
+* | | b2766bf (6) Sixth commit (2nd on branch1).
+| |/  
+|/|   
+* | 6b10468 (2) Second commit (1st on branch1).
+|/  
+* 45750f2 (1) First commit (1st on master).
